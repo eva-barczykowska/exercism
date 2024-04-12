@@ -1,5 +1,5 @@
 module Reverser
-  def self.reverser(str)
+  def self.reverse(str)
     new_str = ''
 
     str.chars.reverse_each do |character|
