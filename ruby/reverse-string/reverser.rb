@@ -9,5 +9,3 @@ module Reverser
     new_str
   end
 end
-
-p reverse('Ewa')
